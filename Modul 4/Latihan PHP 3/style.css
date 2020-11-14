@@ -1,0 +1,50 @@
+body{
+	background: #F2F2F2;
+}
+
+.prima{
+	width: 450px;
+	background: #D692E7;
+	margin: 100px auto;
+	padding: 10px 20px 50px 20px;
+	border-radius: 5px;
+	
+}
+
+.angka{
+	width: 300px;
+	margin: 5px;
+	border: none;
+	font-size: 16pt;
+	border-radius: 5px;
+	padding: 10px;
+}
+
+.tombol{
+	background: #AE8AB7;
+	border-top: none;
+	border-right: none;
+	border-left: none;
+	border-radius: 5px;
+	padding: 10px 20px;
+	color: #eee;
+	font-size: 15pt;
+	border-bottom:4px solid #6C5B7B;
+}
+
+.brand{
+	color: #eee;
+	font-size: 11pt;
+	float: right;
+	text-decoration: none;
+	margin: 12px;
+}
+
+.judul{
+	text-align: center;
+	color: black;
+	font-weight: normal;
+}
+body{
+	background-color: #EDC3F8;
+}
