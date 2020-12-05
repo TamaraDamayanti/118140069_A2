@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+
+    <p>choose your favourite:</p>
+    <ul>
+        <li>cake</li>
+        <li>Tango</li>
+        <li>Oreo</li>
+        <li>Ice Cream</li>
+        <li>Brownies</li>
+    </ul>
+
+    <button onclick="myFunction()">Klik</button>
+
+    <p id="pilih"></p>
+
+    <script>
+        function myFunction() {
+            var x = document.getElementsByTagName("LI");
+            document.getElementById("pilih").innerHTML = x[2].innerHTML;
+        }
+    </script>
+
+</body>
+
+</html>
