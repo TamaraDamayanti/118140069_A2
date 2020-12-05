@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<dataDiri>
+    <nama>
+    <awal>Tamara</awal>
+    <akhir>Damayanti</akhir>
+    </nama>
+    <usia>19</usia>
+    <cita_cita>banyak duit</cita_cita>
+    <alamat>antasari</alamat>
+    <hobi>tiduran</hobi>
+    <saudara>
+        <pertama>dodi</pertama>
+        <kedua>topan</kedua>
+    </saudara>
+    <sosialMedia>
+        <instagram>damayantitamara</instagram>
+        <github>tamaradamayanti</github>
+        <line>aradayti</line>
+    </sosialMedia>
+</dataDiri>
